@@ -60,4 +60,4 @@ Test system operations immediately out of the box using these sandbox testing ac
 | :--- | :--- | :--- | :--- |
 | **Store Customer** | `user@store.com` | `user123` | Product exploration, personal shopping cart actions, checkouts, order logs. |
 | **System Administrator** | `admin@store.com` | `admin123` | Complete store configuration dashboard access, modify active products list. |
-    
+    ![image](Screenshot (50).png)
